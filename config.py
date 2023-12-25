@@ -4,6 +4,6 @@ import os
 class Config(object):
     TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN", "")
 
-    APP_ID = int(os.environ.get("APP_ID", 25721707))
+    APP_ID = int(os.environ.get("APP_ID", 21627756))
 
-    API_HASH = os.environ.get("API_HASH", "c6a2826bd6bce80a2ea20a444fe2a934")
+    API_HASH = os.environ.get("API_HASH", "fe77fbf0cae9f7f5ece37659e2466cf1")
